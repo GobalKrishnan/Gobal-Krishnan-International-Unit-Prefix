@@ -1,5 +1,7 @@
 <h1>gki unit prefix:</h1>
 <h3>Range= -1000 to 1000</h3>
+<h4>E=10 ==> 10pow(n) ==> where ,-1000=>n<=1000,</h4>
+<h4>10pow(0)=10 =>truth(truth for good soul)</h4>
 <h4>Used for measurement like math,physics,chemistry,biology,geology,history,graphics,software,hardware,paint,sketch,etc........</h4>
 <table>
 <tr>
